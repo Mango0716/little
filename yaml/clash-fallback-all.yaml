@@ -7,7 +7,7 @@
 proxy-providers:
 
   机场名称:
-    url: "机场订阅地址"  
+    url: "https://mango.useruno.com/c56ac23a-1a19-48f3-97bb-46a779fda9be_clashmeta.txt"  
     type: http
     interval: 86400
     health-check:
@@ -463,5 +463,6 @@ rule-providers:
   
 
 #  GateFireWall / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gfw.mrs"}
+
 
 
